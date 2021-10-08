@@ -7,7 +7,7 @@ The purpose of this analysis is to determine the number of retiring employees pe
 - There are about 90,389 titles looking to potentially retire soon given the eligible with age. 
 ![image](Data/retiringsoon.png)
 
-- Retiring titles are the highest with Staff at 32,452
+- Retiring titles are the highest with Staff at 32,452.
 ![image](Data/retiringtitles.png)
 
 - There are about 1941 employees eligible for mentor ship
