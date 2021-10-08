@@ -8,6 +8,7 @@ The purpose of this analysis is to determine the number of retiring employees pe
 ![image](Data/retiringsoon.png)
 
 - Retiring titles are the highest with Staff at 32,452.
+
 ![image](Data/retiringtitles.png)
 
 - There are about 1941 employees eligible for mentor ship
